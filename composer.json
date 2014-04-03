@@ -1,5 +1,5 @@
 {
-    "name": "scrumptious/slagger",
+    "name": "jloosli/slagger",
     "type": "library",
     "description": "Slim middleware for generating Swagger json for use with Swagger UI",
     "keywords": ["documentation","swagger","json","slim","middleware"],
@@ -9,6 +9,10 @@
         {
             "name": "Sigfrido Chirinos",
             "homepage": "https://github.com/schirinos"
+        },
+        {
+            "name": "Jared Loosli",
+            "homepage": "https://github.com/jloosli"
         }
     ],
     "require": {
