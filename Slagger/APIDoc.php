@@ -43,6 +43,12 @@ class APIDoc extends \Slim\Middleware
      * @var string
      */
     public $docPath;
+    
+    /**
+     * Route Doc
+     * @var array
+     */
+     public $routeDoc;
 
     /**
      * Constructor
